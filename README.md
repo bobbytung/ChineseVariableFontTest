@@ -22,4 +22,8 @@ Testcase for Chinese Variable Font on browsers (With Arphic JingXiHei VF)
     gfx.downloadable_fonts.keep_variation_tables
     gfx.downloadable_fonts.otl_validation
 
-Varible Font is provided by Arphic, EULA @ http://www.arphic.com.tw/zh-tw/home/about#view_post/181
+- Edge（Windows）
+
+請參考：http://www.axis-praxis.org/blog/2017-04-18/18/the-variable-state-of-the-browsers-early-2017
+
+Sample Varible Font（文鼎晶熙黑） is provided by Arphic, EULA @ http://www.arphic.com.tw/zh-tw/home/about#view_post/181
