@@ -1,10 +1,12 @@
 # ChineseVariableFontTest
-Testcase for Chinese Variable Font on browsers (With Arphic JingXiHei VF)
+Test Chinese Variable Font on browsers
 
 - [文鼎晶熙黑測試頁面](https://bobbytung.github.io/ChineseVariableFontTest/index.html)
 - [思源黑體VF測試頁面](https://bobbytung.github.io/ChineseVariableFontTest/index_SHsans.html)
 - [思源宋體VF測試頁面](https://bobbytung.github.io/ChineseVariableFontTest/index_SHserif.html)
 - [自行測試頁面](https://bobbytung.github.io/ChineseVariableFontTest/index_test.html)
+
+（2022/11/6更新，以上頁面思源體指定Local Font，但Safari 16.1 [macOS Ventura 13.0]起可能因為隱私問題，不會調用Local Font，所以請用其他瀏覽器測試。）
 
 ## Browser support for CSS font-variation-settings property
 
@@ -27,9 +29,6 @@ Testcase for Chinese Variable Font on browsers (With Arphic JingXiHei VF)
     gfx.downloadable_fonts.keep_variation_tables
     gfx.downloadable_fonts.otl_validation
 
-- Edge（Windows）
-
-請參考：http://www.axis-praxis.org/blog/2017-04-18/18/the-variable-state-of-the-browsers-early-2017
 
 ## Sample Varible Font
 
