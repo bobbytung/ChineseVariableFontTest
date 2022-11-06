@@ -1,6 +1,11 @@
 # ChineseVariableFontTest
 Testcase for Chinese Variable Font on browsers (With Arphic JingXiHei VF)
 
+- [文鼎晶熙黑測試頁面](https://bobbytung.github.io/ChineseVariableFontTest/index.html)
+- [思源黑體VF測試頁面](https://bobbytung.github.io/ChineseVariableFontTest/index_SHsans.html)
+- [思源宋體VF測試頁面](https://bobbytung.github.io/ChineseVariableFontTest/index_SHserif.html)
+- [自行測試頁面](https://bobbytung.github.io/ChineseVariableFontTest/index_test.html)
+
 ## Browser support for CSS font-variation-settings property
 
 - Safari (11.0.2（13604.4.7.1.3）on macOS High Sierra 10.13.2（17C88）)
